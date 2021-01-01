@@ -1,5 +1,3 @@
-decryption tests: D7j9q z7kHi aWIKd z7kHi result: bege
-
 a - UYMgY
 b - D7j9q
 c - iEhpR
