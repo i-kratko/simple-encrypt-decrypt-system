@@ -163,8 +163,65 @@ public class Encryptor {
                 case ' ':
                     encrypted = encrypted.concat("D6qx3 ");
                 break;
-
+                case '1':
+                    encrypted = encrypted.concat("rmim3 ");
+                break;
+                case '2':
+                    encrypted = encrypted.concat("1g8e2 ");
+                break;
+                case '3':
+                    encrypted = encrypted.concat("jf2b3 ");
+                break;
+                case '4':
+                    encrypted = encrypted.concat("og7ss ");
+                break;
+                case '5':
+                    encrypted = encrypted.concat("uiyd1 ");
+                break;
+                case '6':
+                    encrypted = encrypted.concat("c3ahh ");
+                break;
+                case '7':
+                    encrypted = encrypted.concat("ikk3c ");
+                break;
+                case '8':
+                    encrypted = encrypted.concat("jbzki ");
+                break;
+                case '9':
+                    encrypted = encrypted.concat("prn3f ");
+                break;
+                case '0':
+                    encrypted = encrypted.concat("atg1w ");
+                break;
+                case '.':
+                    encrypted = encrypted.concat("vlip9 ");
+                break;
+                case ',':
+                    encrypted = encrypted.concat("xhuun ");
+                break;
+                case '-':
+                    encrypted = encrypted.concat("o8pn6 ");
+                break;
+                case '+':
+                    encrypted = encrypted.concat("qawl7 ");
+                break;
+                case '=':
+                    encrypted = encrypted.concat("f5m0l ");
+                break;
+                case '*':
+                    encrypted = encrypted.concat("tustd ");
+                break;
+                case '/':
+                    encrypted = encrypted.concat("uvyox ");
+                break;
+                case '!':
+                    encrypted = encrypted.concat("6nm70 ");
+                break;
+                case '?':
+                    encrypted = encrypted.concat("fwegr ");
+                break;
             }
+            
         }
 
         return encrypted;

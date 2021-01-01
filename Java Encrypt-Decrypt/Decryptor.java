@@ -163,6 +163,63 @@ public class Decryptor {
             case "D6qx3":
                 decrypted = " ";
             break;
+            case "rmim3":
+                decrypted = "1";
+            break;
+            case "1g8e2":
+                decrypted = "2";
+            break;
+            case "jf2b3":
+                decrypted = "3";
+            break;
+            case "og7ss":
+                decrypted = "4";
+            break;
+            case "uiyd1":
+                decrypted = "5";
+            break;
+            case "c3ahh":
+                decrypted = "6";
+            break;
+            case "ikk3c":
+                decrypted = "7";
+            break;
+            case "jbzki":
+                decrypted = "8";
+            break;
+            case "prn3f":
+                decrypted = "9";
+            break;
+            case "atg1w":
+                decrypted = "0";
+            break;
+            case "vlip9":
+                decrypted = ".";
+            break;
+            case "xhuun":
+                decrypted = ",";
+            break;
+            case "o8pn6":
+                decrypted = "-";
+            break;
+            case "qawl7":
+                decrypted = "+";
+            break;
+            case "f5m0l":
+                decrypted = "=";
+            break;
+            case "tustd":
+                decrypted = "*";
+            break;
+            case "uvyox":
+                decrypted = "/";
+            break;
+            case "6nm70":
+                decrypted = "!";
+            break;
+            case "fwegr":
+                decrypted = "?";
+            break;
         }
 
         return decrypted;
