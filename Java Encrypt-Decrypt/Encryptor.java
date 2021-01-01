@@ -82,6 +82,84 @@ public class Encryptor {
                 case 'z':
                     encrypted = encrypted.concat("R6VJX ");
                 break;
+                case 'A':
+                    encrypted = encrypted.concat("RezBQ ");
+                break;
+                case 'B':
+                    encrypted = encrypted.concat("64v6E ");
+                break;
+                case 'C':
+                    encrypted = encrypted.concat("SCYWI ");
+                break;
+                case 'D':
+                    encrypted = encrypted.concat("vjlT2 ");
+                break;
+                case 'E':
+                    encrypted = encrypted.concat("zq9Uy ");
+                break;
+                case 'F':
+                    encrypted = encrypted.concat("AYCnY ");
+                break;
+                case 'G':
+                    encrypted = encrypted.concat("C8lsL ");
+                break;
+                case 'H':
+                    encrypted = encrypted.concat("ZOjTb ");
+                break;
+                case 'I':
+                    encrypted = encrypted.concat("Rjmlq ");
+                break;
+                case 'J':
+                    encrypted = encrypted.concat("haAfe ");
+                break;
+                case 'K':
+                    encrypted = encrypted.concat("ZuHMT ");
+                break;
+                case 'L':
+                    encrypted = encrypted.concat("5MD7G ");
+                break;
+                case 'M':
+                    encrypted = encrypted.concat("jC64y ");
+                break;
+                case 'N':
+                    encrypted = encrypted.concat("0ZOoT ");
+                break;
+                case 'O':
+                    encrypted = encrypted.concat("rV0lW ");
+                break;
+                case 'P':
+                    encrypted = encrypted.concat("IlraC ");
+                break;
+                case 'Q':
+                    encrypted = encrypted.concat("hQZFP ");
+                break;
+                case 'R':
+                    encrypted = encrypted.concat("pOZj6 ");
+                break;
+                case 'S':
+                    encrypted = encrypted.concat("asYg0 ");
+                break;
+                case 'T':
+                    encrypted = encrypted.concat("ycXS1 ");
+                break;
+                case 'U':
+                    encrypted = encrypted.concat("pxs23 ");
+                break;
+                case 'V':
+                    encrypted = encrypted.concat("TH5nE ");
+                break;
+                case 'W':
+                    encrypted = encrypted.concat("1yqn8 ");
+                break;
+                case 'X':
+                    encrypted = encrypted.concat("lmLCs ");
+                break;
+                case 'Y':
+                    encrypted = encrypted.concat("kiHWl ");
+                break;
+                case 'Z':
+                    encrypted = encrypted.concat("0KYcQ ");
+                break;
                 case ' ':
                     encrypted = encrypted.concat("D6qx3 ");
                 break;

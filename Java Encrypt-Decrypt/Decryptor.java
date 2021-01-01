@@ -82,6 +82,84 @@ public class Decryptor {
             case "R6VJX":
                 decrypted = "z";
             break;
+            case "RezBQ":
+            decrypted = "A";
+            break;
+            case "64v6E":
+                decrypted = "B";
+            break;
+            case "SCYWI":
+                decrypted = "C";
+            break;
+            case "vjlT2":
+                decrypted = "D";
+            break;
+            case "zq9Uy":
+                decrypted = "E";
+            break;
+            case "AYCnY":
+                decrypted = "F";
+            break;
+            case "C8lsL":
+                decrypted = "G";
+            break;
+            case "ZOjTb":
+                decrypted = "H";
+            break;
+            case "Rjmlq":
+                decrypted = "I";
+            break;
+            case "haAfe":
+                decrypted = "J";
+            break;
+            case "ZuHMT":
+                decrypted = "K";
+            break;
+            case "5MD7G":
+                decrypted = "L";
+            break;
+            case "jC64y":
+                decrypted = "M";
+            break;
+            case "0ZOoT":
+                decrypted = "N";
+            break;
+            case "rV0lW":
+                decrypted = "O";
+            break;
+            case "IlraC":
+                decrypted = "P";
+            break;
+            case "hQZFP":
+                decrypted = "Q";
+            break;
+            case "pOZj6":
+                decrypted = "R";
+            break;
+            case "asYg0":
+                decrypted = "S";
+            break;
+            case "ycXS1":
+                decrypted = "T";
+            break;
+            case "pxs23":
+                decrypted = "U";
+            break;
+            case "TH5nE":
+                decrypted = "V";
+            break;
+            case "1yqn8":
+                decrypted = "W";
+            break;
+            case "lmLCs":
+                decrypted = "X";
+            break;
+            case "kiHWl":
+                decrypted = "Y";
+            break;
+            case "0KYcQ":
+                decrypted = "Z";
+            break;
             case "D6qx3":
                 decrypted = " ";
             break;
