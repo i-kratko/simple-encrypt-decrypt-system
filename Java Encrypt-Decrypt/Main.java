@@ -22,7 +22,7 @@ public class Main {
 
             if (action.equals("Encrypt")) {
                 String encrypted = encryptor.encrypt(input);
-                System.out.println(encrypted);
+                System.out.println("Result: " + encrypted);
 
                 System.out.println("Do you wish to save the message into a file? Y/N");
                 String answer = scanner.nextLine();
@@ -60,7 +60,7 @@ public class Main {
                     decrypted = decrypted.concat(temp2);
                 }
 
-                System.out.println(decrypted);
+                System.out.println("Result: " + decrypted);
 
 
             }
