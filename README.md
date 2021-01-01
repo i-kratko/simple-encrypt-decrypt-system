@@ -6,7 +6,7 @@ Here's a i/o example:
 
 #### Encryption
 
-```bash
+```
 Enter a string to Encrypt/Decrypt: my cool string
 Encrypt or Decrypt?
 Encrypt
@@ -21,7 +21,7 @@ Enter a new string to Encrypt/Decrypt (or 'end' to end the program): end
 
 #### Decryption
 
-```bash
+```
 Enter a string to Encrypt/Decrypt: 10aGk 0Od0L D6qx3 iEhpR wbYJV wbYJV nSltz D6qx3 Bd2Xo J0RdQ V0WYl v9G2i vCQa9 aWIKd
 Encrypt or Decrypt?
 Decrypt
