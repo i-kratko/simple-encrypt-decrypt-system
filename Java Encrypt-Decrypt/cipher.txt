@@ -62,8 +62,8 @@ Z - 0KYcQ
 0 - atg1w
 . - vlip9
 , - xhuun
-' - q6hbe (not working !encryption problem)
-" - e3mm9 (not working !decryption problem)
+' - q6hbe
+" - e3mm9 
 - - o8pn6
 + - qawl7
 = - f5m0l
