@@ -2,6 +2,7 @@ public class Encryptor {
 
     public String encrypt(String msg) {
         String encrypted = "";
+        char apostrophe = (char) 39;
         for(int i = 0; i < msg.length(); i++) {
             switch(msg.charAt(i)) {
                 case 'a':
@@ -199,6 +200,9 @@ public class Encryptor {
                 case ',':
                     encrypted = encrypted.concat("xhuun ");
                 break;
+                case '"':
+                    encrypted = encrypted.concat("e3mm9 ");
+                break;
                 case '-':
                     encrypted = encrypted.concat("o8pn6 ");
                 break;
@@ -221,6 +225,8 @@ public class Encryptor {
                     encrypted = encrypted.concat("fwegr ");
                 break;
             }
+            if(msg.charAt(i) == apostrophe) 
+                encrypted = encrypted.concat("q6hbe ");
             
         }
 

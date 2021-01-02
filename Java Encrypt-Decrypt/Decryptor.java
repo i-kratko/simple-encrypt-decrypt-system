@@ -2,7 +2,7 @@ public class Decryptor {
     
     public String decrypt(String msg) {
         String decrypted = "";
-        
+        String quotationMarks = Character.toString((char) 34);
         switch(msg) {
             case "UYMgY":
                 decrypted = "a";
@@ -83,7 +83,7 @@ public class Decryptor {
                 decrypted = "z";
             break;
             case "RezBQ":
-            decrypted = "A";
+                decrypted = "A";
             break;
             case "64v6E":
                 decrypted = "B";
@@ -199,6 +199,9 @@ public class Decryptor {
             case "xhuun":
                 decrypted = ",";
             break;
+            case "q6hbe":
+                decrypted = "'";
+            break;
             case "o8pn6":
                 decrypted = "-";
             break;
@@ -221,7 +224,9 @@ public class Decryptor {
                 decrypted = "?";
             break;
         }
-
+        if(msg.equals("e3mm9")) 
+            decrypted = quotationMarks;
+        
         return decrypted;
     }
 
