@@ -20,7 +20,7 @@ public class Main {
             System.out.println("Encrypt or Decrypt?");
             action = scanner.nextLine();
 
-            if (action.equals("Encrypt")) {
+            if (action.equalsIgnoreCase("Encrypt")) {
                 String encrypted = encryptor.encrypt(input);
                 System.out.println("Result: " + encrypted);
 
@@ -50,7 +50,7 @@ public class Main {
                     
                 }
             }
-            else if(action.equals("Decrypt")) {
+            else if(action.equalsIgnoreCase("Decrypt")) {
                 String decrypted = "";
                 String[] decryption = input.split("\\s+");
 
@@ -62,7 +62,9 @@ public class Main {
 
                 System.out.println("Result: " + decrypted);
 
-
+            }
+            else {
+                System.out.println(String.format("Unknown command '%s'", action));
             }
 
             System.out.print("Enter a new string to Encrypt/Decrypt (or 'end' to end the program): ");
