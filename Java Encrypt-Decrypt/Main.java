@@ -70,5 +70,7 @@ public class Main {
             System.out.print("Enter a new string to Encrypt/Decrypt (or 'end' to end the program): ");
             input = scanner.nextLine();
         }
+
+        scanner.close();
     }
 }   
