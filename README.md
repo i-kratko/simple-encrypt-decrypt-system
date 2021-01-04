@@ -2,7 +2,7 @@
 This is a very very very basic version of a system that encrypts a message and lets you save it as a .txt file. You also have the option to decrypt messages
 
 ## Download
-Once all the features are impplemented I'll provide a download link until then you will be able to download the current build I'm working on but keep in mind this is not the full version
+Here is the Download link for the final version of the program: 
 [Download Link](https://gofile.io/d/7xcXfD)
 
 ### Instructions to run the program
