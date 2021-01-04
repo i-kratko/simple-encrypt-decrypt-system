@@ -12,7 +12,7 @@ public class Main {
         Encryptor encryptor = new Encryptor();
         Decryptor decryptor = new Decryptor();
 
-        System.out.println(ConsoleColor.ANSI_PURPLE + "WELCOME TO SEDS V 1.0.0" + ConsoleColor.ANSI_RESET);
+        System.out.println("WELCOME TO SEDS V 1.0.0");
 
         System.out.print("Enter a string to Encrypt/Decrypt: ");
         String input = scanner.nextLine();
@@ -36,15 +36,15 @@ public class Main {
                     File file = new File(fileName);
                     try {
                         if (file.createNewFile()) {
-                            System.out.println(ConsoleColor.ANSI_GREEN + "File created: " + file.getName());
-                            System.out.println("File path: " + file.getAbsolutePath() + ConsoleColor.ANSI_RESET);
+                            System.out.println("File created: " + file.getName());
+                            System.out.println("File path: " + file.getAbsolutePath());
 
                             FileWriter fileWriter = new FileWriter(fileName);
                             fileWriter.write(encrypted);
                             fileWriter.close();
                         }
                         else {
-                            System.out.println(ConsoleColor.ANSI_RED + "File is already created!" + ConsoleColor.ANSI_RESET);
+                            System.out.println("File is already created!");
                         }
                     } catch (IOException e) {
                         e.printStackTrace();
